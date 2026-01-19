@@ -1,5 +1,5 @@
 Site en ligne version fonctionnelle (PHP/MySQL): https://ecoride.alwaysdata.net/
-version GitHub Pages (code uinquement):
+version GitHub Pages (code uinquement):  https://ilyes-madi.github.io/ecoride/
 
 EcoRide — Application de covoiturage:
 EcoRide est une application web de covoiturage développée en PHP et MySQL dans le cadre de mon ECF Développeur Web.
