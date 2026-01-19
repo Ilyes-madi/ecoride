@@ -36,11 +36,15 @@ Une version fonctionnelle est hébergée sur serveur PHP.:
  Objectif pédagogique
  
 Ce projet m’a permis de :
-Comprendre la connexion PHP / MySQL avec PDO
-Manipuler des formulaires HTML en PHP
-Gérer l’insertion et l’affichage de données
-Structurer un projet web backend simple
-Utiliser GitHub pour présenter un projet
+-Comprendre la connexion PHP / MySQL avec PDO
+
+-Manipuler des formulaires HTML en PHP
+
+-Gérer l’insertion et l’affichage de données
+
+-Structurer un projet web backend simple
+
+-Utiliser GitHub pour présenter un projet
 
  Auteur:
 Projet réalisé par Ilyes Madi
