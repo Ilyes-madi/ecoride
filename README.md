@@ -34,6 +34,7 @@ Le dépôt GitHub sert donc uniquement à présenter le code source du projet.
 Une version fonctionnelle est hébergée sur serveur PHP.:
 
  Objectif pédagogique
+ 
 Ce projet m’a permis de :
 Comprendre la connexion PHP / MySQL avec PDO
 Manipuler des formulaires HTML en PHP
