@@ -1,4 +1,4 @@
-Site en ligne version fonctionnelle (PHP/MySQL): https://ecoride.alwaysdata.net/
+Site en ligne version fonctionnelle (PHP/MySQL): https://ecoride.alwaysdata.net/index.php
 
 version GitHub Pages (code uinquement):  https://ilyes-madi.github.io/ecoride/
 
