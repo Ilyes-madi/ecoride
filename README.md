@@ -22,7 +22,7 @@ Fonctionnalités actuelles:
 Structure du projet:
  - `config.php` : connexion à la base de données
  - `insert.php` : insertion de trajets
- - `proposer.php` : formulaire pour proposer un trajet
+ - `index.php` : formulaire pour proposer un trajet
  - `liste.php` : affichage des trajets
  - `style.css` : mise en forme des pages
 
