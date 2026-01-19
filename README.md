@@ -1,23 +1,23 @@
-Site en ligne: https://Ilyes-madi.github.io/ecoride/
+Site en ligne version fonctionnelle (PHP/MySQL): https://ecoride.alwaysdata.net/
+version GitHub Pages (code uinquement):
 
-EcoRide
+EcoRide — Application de covoiturage:
+EcoRide est une application web de covoiturage développée en PHP et MySQL dans le cadre de mon ECF Développeur Web.
+Elle permet aux utilisateurs de proposer des trajets et de consulter les trajets disponibles via une interface simple et claire.
 
- Ce projet EcoRide a été réalisé par moi dans le cadre de mon ECF Développeur Web.
+ Technologies utilisées:
+-PHP (PDO)
+-MySQL
+-HTML5
+-CSS3
+-Git / GitHub
 
- Description:
- EcoRide est une petite application de covoiturage permettant :
- - De proposer un trajet (nom du conducteur, départ, arrivée, date et nombre de places)
- - De lister les trajets existants dans une interface lisible
+  Fonctionnalités:
+-Ajout de trajets via un formulaire
+-Enregistrement des trajets en base de données
+-Affichage de la liste des trajets enregistrés
+-Interface utilisateur simple avec CSS
 
-Technologies utilisées:
- - **PHP** (connexion PDO, insertion et récupération de données)
- - **MySQL** (base de données)
- - **HTML / CSS** (interface utilisateur avec un style inspiré de l’écologie)
-
-Fonctionnalités actuelles:
-  Ajout de trajets via un formulaire  
-  Affichage de la liste des trajets enregistrés  
-  Mise en page simple et claire avec CSS
 
 Structure du projet:
  - `config.php` : connexion à la base de données
@@ -25,5 +25,23 @@ Structure du projet:
  - `index.php` : formulaire pour proposer un trajet
  - `liste.php` : affichage des trajets
  - `style.css` : mise en forme des pages
+ - 
+ Important:
+Ce projet utilise PHP et MySQL.
+GitHub Pages ne supporte pas le PHP.
+Le dépôt GitHub sert donc uniquement à présenter le code source du projet.
+Une version fonctionnelle est hébergée sur serveur PHP.:
+
+ Objectif pédagogique
+Ce projet m’a permis de :
+Comprendre la connexion PHP / MySQL avec PDO
+Manipuler des formulaires HTML en PHP
+Gérer l’insertion et l’affichage de données
+Structurer un projet web backend simple
+Utiliser GitHub pour présenter un projet
+
+ Auteur:
+Projet réalisé par Ilyes Madi
+Dans le cadre de la formation Développeur Web chez Studi.
 
  
