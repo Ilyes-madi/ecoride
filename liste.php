@@ -11,12 +11,12 @@ $stmt = $pdo->query($sql);
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet"
-    href="/ecoride/style.css">
+    href="style.css">
     <title>Liste des trajets</title>
 </head>
 <body>
     <nav>
-        <a href="proposer.php">Proposer un trajet</a><hr>
+        <a href="index.php">Proposer un trajet</a><hr>
     </nav>
     <h1>Liste des trajets</h1>
     <table border="1" cellpadding="8" cellspacing="0">
