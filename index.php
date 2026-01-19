@@ -16,7 +16,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         ':conducteur' => $conducteur,
         ':depart' => $depart,
         ':arrivee' => $arrivee,
-        ':date_trajet' => $date_trajet,
+        ':date_trajet' => $date_trajet, 
         ':places' => $places
     ]);
     echo "<p style='color:green;'>✅ Trajet ajouté avec succès !</p>";
@@ -44,3 +44,5 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <p><a href="liste.php">➡️ Voir la liste des trajets</a></p>
 </body>
 </html>
+
+
