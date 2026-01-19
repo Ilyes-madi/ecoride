@@ -26,7 +26,7 @@ Structure du projet:
  - `index.php` : formulaire pour proposer un trajet
  - `liste.php` : affichage des trajets
  - `style.css` : mise en forme des pages
- - 
+   
  Important:
 Ce projet utilise PHP et MySQL.
 GitHub Pages ne supporte pas le PHP.
